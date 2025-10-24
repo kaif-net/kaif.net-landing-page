@@ -1,0 +1,5 @@
+Initially aiming to address our own knowledge management issues, we created Omni - a lightweight, Rust-based application optimized for both mapping out and traversing the links between our data.
+
+Realizing its potential, we prioritized scalability and ease-of-implementation. And as our team grew through each iteration we shifted our focus towards tailoring custom industry-focused experiences, unique to each enterprise.
+
+Now, with a catalogue of satisfied clientele, we're working to deepen our focus within the user experience.
