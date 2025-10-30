@@ -1,11 +1,3 @@
-/*
-
-TemplateMo 593 personal shape
-
-https://templatemo.com/tm-593-personal-shape
-
-*/
-
 // JavaScript Document
 
         // Mobile menu functionality
